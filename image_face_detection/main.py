@@ -2,7 +2,7 @@ import cv2
 import face_recognition
 
 
-image_to_detect = cv2.imread('C:/Users/Angel/Desktop/test_img2.jpg')
+image_to_detect = cv2.imread('pexels-fauxels-3184398.jpg')
 
 #cv2.imshow('test', image_to_detect)
 
